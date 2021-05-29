@@ -1,0 +1,1160 @@
+﻿Log file open, 03/28/21 20:38:05
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TheRivenTower
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.287162
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=youis11 -epicuserid=6193e5ebaca744498d6897ab8697ef2a -epiclocale=es
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-18.38.06:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.28-18.38.06:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-18.38.06:403][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-18.38.06:413][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.28-18.38.06:413][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.28-18.38.06:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.28-18.38.06:415][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.28-18.38.06:415][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.28-18.38.06:415][  0]LogHAL: Display: Platform has ~ 16 GB [17048965120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.28-18.38.06:415][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.28-18.38.06:415][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.28-18.38.06:415][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.28-18.38.06:416][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.28-18.38.06:417][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-18.38.06:417][  0]LogInit: Computer: DESKTOP-VJ1681R
+[2021.03.28-18.38.06:418][  0]LogInit: User: usuari
+[2021.03.28-18.38.06:418][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.28-18.38.06:418][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.28-18.38.06:418][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.28-18.38.06:418][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.28-18.38.06:418][  0]LogMemory: Process Physical Memory: 141.50 MB used, 141.50 MB peak
+[2021.03.28-18.38.06:418][  0]LogMemory: Process Virtual Memory: 119.47 MB used, 119.47 MB peak
+[2021.03.28-18.38.06:418][  0]LogMemory: Physical Memory: 7718.59 MB used,  8540.57 MB free, 16259.16 MB total
+[2021.03.28-18.38.06:418][  0]LogMemory: Virtual Memory: 134208432.00 MB used,  9297.41 MB free, 134217728.00 MB total
+[2021.03.28-18.38.06:424][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.28-18.38.06:474][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.28-18.38.06:475][  0]LogInit: Using OS detected language (es-ES).
+[2021.03.28-18.38.06:475][  0]LogInit: Using OS detected locale (es-ES).
+[2021.03.28-18.38.06:480][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2021.03.28-18.38.06:529][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.28-18.38.06:543][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.28-18.38.06:575][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.28-18.38.06:575][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.28-18.38.06:783][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.28-18.38.06:783][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.28-18.38.06:783][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.28-18.38.06:783][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.28-18.38.06:879][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.03.28-18.38.06:879][  0]LogD3D11RHI:       4021/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.28-18.38.06:909][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.03.28-18.38.06:909][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.03.28-18.38.06:912][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.28-18.38.06:912][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.28-18.38.06:912][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.28-18.38.06:968][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.28-18.38.06:968][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2021.03.28-18.38.06:968][  0]LogWindows: EnumDisplayDevices:
+[2021.03.28-18.38.06:969][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.03.28-18.38.06:969][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.03.28-18.38.06:969][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.03.28-18.38.06:970][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.03.28-18.38.06:970][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.03.28-18.38.06:970][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.03.28-18.38.06:970][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.03.28-18.38.06:970][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2021.03.28-18.38.07:042][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.28-18.38.07:042][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.28-18.38.07:042][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.28-18.38.07:058][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.28-18.38.07:060][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.28-18.38.07:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.28-18.38.07:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.28-18.38.07:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.28-18.38.07:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.28-18.38.07:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.28-18.38.07:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.28-18.38.07:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.28-18.38.07:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.28-18.38.07:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.28-18.38.07:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.28-18.38.07:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.28-18.38.07:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.28-18.38.07:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.28-18.38.07:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.28-18.38.07:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.28-18.38.07:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.28-18.38.07:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.28-18.38.07:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.28-18.38.07:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.28-18.38.07:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.28-18.38.07:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.28-18.38.07:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.28-18.38.07:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.28-18.38.07:733][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.28-18.38.07:741][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.28-18.38.07:801][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.28-18.38.07:801][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Intermediate/Shaders/WorkingDirectory/6628/).
+[2021.03.28-18.38.07:802][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/usuari/AppData/Local/Temp/UnrealShaderWorkingDir/32DDDD9648EB8D28CA2B3EB56B558418/'.
+[2021.03.28-18.38.07:802][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.28-18.38.07:802][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.28-18.38.08:767][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.28-18.38.08:830][  0]LogDerivedDataCache: Loaded boot cache 0.06s 83MB C:/Users/usuari/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.28-18.38.08:830][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/usuari/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.28-18.38.08:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.28-18.38.08:830][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.28-18.38.08:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.28-18.38.08:830][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.28-18.38.08:844][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.28-18.38.08:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.28-18.38.08:844][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.28-18.38.08:858][  0]LogDerivedDataCache: Speed tests for C:/Users/usuari/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.03.28-18.38.08:858][  0]LogDerivedDataCache: Display: Performance to C:/Users/usuari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=218.12MBs, RandomWriteSpeed=103.06MBs. Assigned SpeedClass 'Local'
+[2021.03.28-18.38.08:859][  0]LogDerivedDataCache: Using Local data cache path C:/Users/usuari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.28-18.38.08:859][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.28-18.38.08:859][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.28-18.38.08:929][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.28-18.38.08:929][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.28-18.38.08:957][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.03.28-18.38.09:315][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.28-18.38.09:315][  0]LogInit: Active device profile: [0000022E29C6A000][0000022E297F5340 49] Windows
+[2021.03.28-18.38.09:315][  0]LogInit: Profiles: [0000022E29C6A000][0000022E297F5340 49] Windows, [0000022E29C26200][0000022E297FD4C0 49] WindowsNoEditor, [0000022E29C6BC00][0000022E297F9600 49] WindowsServer, [0000022E29C24600][0000022E29809740 49] WindowsClient, [0000022E29C68700][0000022E2980D880 49] IOS, [0000022E29C27100][0000022E2AA279C0 49] iPadAir, [0000022E29C6AD00][0000022E2AA2FB40 49] iPadAir2, [0000022E2AFE3800][0000022E2AA36140 49] IPadPro, [0000022E2AFE3900][0000022E2AA32180 49] iPadAir3, [0000022E29C69500][0000022E2AA3A300 49] iPadAir4, [0000022E2AFE2700][0000022E2AA3E480 49] iPadMini2, [0000022E29C6B700][0000022E2AA42600 49] iPadMini3, [0000022E2AFE2500][0000022E2AA46780 49] iPadMini4, [0000022E29C68500][0000022E2AA4A900 49] iPadMini5, [0000022E2B02B000][0000022E2AA52BC0 49] iPhone6, [0000022E2B02B100][0000022E2AA4EC00 49] iPodTouch6, [0000022E2AFE3600][0000022E2AA5AEC0 49] iPhone7, [0000022E2AFE3500][0000022E2AA56F00 49] iPodTouch7, [0000022E2B02A600][0000022E2AA5F080 49] iPhone5S, [0000022E2AFE1600][0000022E2AA63200 49] iPhone6Plus, [0000022E2B028F00][0000022E2AA67380 49] iPhone6S, [0000022E2AFE1900][0000022E2AA6B500 49] iPhone6SPlus, [0000022E2B029700][0000022E2AA2B640 49] iPhone7Plus, [0000022E2AFE2900][0000022E2AA6F780 49] iPhoneSE, [0000022E2B02AE00][0000022E2AA738C0 49] iPhone8, [0000022E2AFE0B00][0000022E2AA77A00 49] iPhone8Plus, [0000022E2B02A200][0000022E2AA7FB80 49] iPhoneX, [0000022E2AFE1B00][0000022E2AA83D00 49] iPhoneXS, [0000022E2B028500][0000022E2AA861C0 49] iPhoneXSMax, [0000022E2AFE0100][0000022E2AA8A340 49] iPhoneXR, [0000022E2B02B600][0000022E2AA8E4C0 49] iPhone11, [0000022E2AFE3100][0000022E2AA92640 49] iPhone11Pro, [0000022E2B02AD00][0000022E2AA967C0 49] iPhone11ProMax, [0000022E2AFE0700][0000022E2AA9A940 49] iPhoneSE2, [0000022E2B02A400][0000022E2AA9EAC0 49] iPhone12Mini, [0000022E2AFE2300][0000022E2AAA2C40 49] iPhone12, [0000022E2B028200][0000022E2AAA6DC0 49] iPhone12Pro, [0000022E2AFE0E00][0000022E2AAAAF40 49] iPhone12ProMax, [0000022E2B028100][0000022E2AAAF0C0 49] iPadPro105, [0000022E2AFE3E00][0000022E2AAB3240 49] iPadPro129, [0000022E2B029000][0000022E2AAB73C0 49] iPadPro97, [0000022E2B029E00][0000022E2AABB540 49] iPadPro2_129, [0000022E29C24C00][0000022E2AABF6C0 49] iPad5, [0000022E2B028900][0000022E2AA7B800 49] iPad6, [0000022E29C25100][0000022E2AAC3940 49] iPad7, [0000022E2B02AC00][0000022E2AAC7A80 49] iPad8, [0000022E29C25E00][0000022E2AACFC00 49] iPadPro11, [0000022E2B028800][0000022E2AAD20C0 49] iPadPro2_11, [0000022E29C26B00][0000022E2AAD6240 49] iPadPro3_129, [0000022E2B029F00][0000022E2AADA3C0 49] iPadPro4_129, [0000022E29C27B00][0000022E2AADE540 49] AppleTV, [0000022E2B029400][0000022E2AAE26C0 49] AppleTV4K, [0000022E29C24F00][0000022E2AAE6840 49] TVOS, [0000022E2B029600][0000022E2AAEA9C0 49] Mac, [0000022E29C25200][0000022E2AAEEB40 49] MacClient, [0000022E2AFE1100][0000022E2AAF2CC0 49] MacNoEditor, [0000022E29C26400][0000022E2AAF6E40 49] MacServer, [0000022E2AFE3400][0000022E2AAFAFC0 49] Linux, [0000022E29C26600][0000022E2AAFF140 49] LinuxNoEditor, [0000022E2AFE1C00][0000022E2AB032C0 49] LinuxAArch64NoEditor, [0000022E29C24200][0000022E2AB07440 49] LinuxClient, [0000022E2AFE1D00][0000022E2AB0B5C0 49] LinuxAArch64Client, [0000022E29C26D00][0000022E2AB0F740 49] LinuxServer, [0000022E2AFE2200][0000022E2AACB880 49] LinuxAArch64Server, [0000022E29C24700][0000022E2AB139C0 49] Android, [0000022E2AFE3200][0000022E2AB17B00 49] Android_Low, [0000022E29C27600][0000022E2AB1BC40 49] Android_Mid, [0000022E2AFE1800][0000022E2AB22100 49] Android_High, [0000022E29C27E00][0000022E2AB26280 49] Android_Default, [0000022E2AFE2600][0000022E2AB2A400 49] Android_Adreno4xx, [0000022E29C26700][0000022E2AB2E580 49] Android_Adreno5xx_Low, [0000022E2AFE0200][0000022E2AB32700 49] Android_Adreno5xx, [0000022E29C24300][0000022E2AB36880 49] Android_Adreno6xx, [0000022E2AFE3700][0000022E2AB3AA00 49] Android_Adreno6xx_Vulkan, [0000022E29C27F00][0000022E2AB3EB80 49] Android_Mali_T6xx, [0000022E2AFE0C00][0000022E2AB42D00 49] Android_Mali_T7xx, [0000022E29C26E00][0000022E2AB46E80 49] Android_Mali_T8xx, [0000022E2AFE0D00][0000022E2AB4B000 49] Android_Mali_G71, [0000022E29C26000][0000022E2AB4F180 49] Android_Mali_G72, [0000022E2AFE3C00][0000022E2AB53300 49] Android_Mali_G72_Vulkan, [0000022E29C27000][0000022E2AB57480 49] Android_Mali_G76, [0000022E2AFE1000][0000022E2AB5B600 49] Android_Mali_G76_Vulkan, [0000022E29C24100][0000022E2AB5F780 49] Android_Mali_G77, [0000022E2AFE2F00][0000022E2AB1F8C0 49] Android_Mali_G77_Vulkan, [0000022E29C27D00][0000022E2AB63A00 49] Android_Vulkan_SM5, [0000022E2AFE0600][0000022E2AB67B40 49] Android_PowerVR_G6xxx, [0000022E29C27400][0000022E2AB6BC80 49] Android_PowerVR_GT7xxx, [0000022E2AFE3B00][0000022E2AB72140 49] Android_PowerVR_GE8xxx, [0000022E29C24900][0000022E2AB762C0 49] Android_PowerVR_GM9xxx, [0000022E2AFE2D00][0000022E2AB7A440 49] Android_PowerVR_GM9xxx_Vulkan, [0000022E29C27900][0000022E2AB7E5C0 49] Android_TegraK1, [0000022E2AFE1300][0000022E2AB82740 49] Android_Unknown_Vulkan, [0000022E29C26F00][0000022E2AB868C0 49] Lumin, [0000022E2AFE2400][0000022E2AB8AA40 49] Lumin_Desktop, [0000022E29C24A00][0000022E2AB8EBC0 49] HoloLens, 
+[2021.03.28-18.38.09:371][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.28-18.38.09:371][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.28-18.38.09:371][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.28-18.38.09:371][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.28-18.38.09:371][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.28-18.38.09:507][  0]LogNetVersion: TheRivenTower 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 930446916)
+[2021.03.28-18.38.10:203][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.28-18.38.10:279][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.074689 seconds
+[2021.03.28-18.38.10:288][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.28-18.38.10:288][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.28-18.38.10:288][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.28-18.38.10:861][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.28-18.38.10:868][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.28-18.38.10:975][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.28-18.38.10:975][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.28-18.38.10:980][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.28-18.38.10:984][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.28-18.38.10:996][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.28-18.38.11:004][  0]LogUProjectInfo: Found projects:
+[2021.03.28-18.38.11:333][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.28-18.38.11:361][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.28-18.38.11:361][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.28-18.38.11:422][  0]LogCollectionManager: Loaded 0 collections in 0.002345 seconds
+[2021.03.28-18.38.11:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Collections/' took 0.00s
+[2021.03.28-18.38.11:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/Developers/usuari/Collections/' took 0.00s
+[2021.03.28-18.38.11:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/Collections/' took 0.00s
+[2021.03.28-18.38.11:456][  0]LogOcInput: OculusInput pre-init called
+[2021.03.28-18.38.11:796][  0]LogEngine: Initializing Engine...
+[2021.03.28-18.38.11:798][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.28-18.38.11:799][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.28-18.38.11:800][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.28-18.38.11:965][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.28-18.38.11:976][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.28-18.38.11:997][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.28-18.38.12:003][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.28-18.38.12:003][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.28-18.38.12:003][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-18.38.12:003][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-18.38.12:003][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-18.38.12:003][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-18.38.12:003][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-18.38.12:003][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-18.38.12:003][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-18.38.12:003][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-18.38.12:004][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-18.38.12:004][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-18.38.12:047][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-18.38.12:047][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-18.38.12:341][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.03.28-18.38.12:347][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-18.38.12:350][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-18.38.12:350][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-18.38.12:351][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-18.38.12:351][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-18.38.12:351][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-18.38.12:352][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-18.38.12:353][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-18.38.12:353][  0]LogInit: FAudioDevice initialized.
+[2021.03.28-18.38.12:353][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.28-18.38.12:353][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.28-18.38.12:418][  0]LogDerivedDataCache: Saved boot cache 0.06s 83MB C:/Users/usuari/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.28-18.38.12:424][  0]LogInit: Texture streaming: Enabled
+[2021.03.28-18.38.12:442][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.28-18.38.12:447][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.28-18.38.12:447][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.28-18.38.12:450][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.28-18.38.12:525][  0]LogInit: Transaction tracking system initialized
+[2021.03.28-18.38.12:555][  0]BlueprintLog: New page: Cargar el editor
+[2021.03.28-18.38.12:654][  0]LocalizationService: Localization service is disabled
+[2021.03.28-18.38.12:686][  0]TimingProfiler: Initialize
+[2021.03.28-18.38.12:686][  0]TimingProfiler: OnSessionChanged
+[2021.03.28-18.38.12:686][  0]LoadingProfiler: Initialize
+[2021.03.28-18.38.12:686][  0]LoadingProfiler: OnSessionChanged
+[2021.03.28-18.38.12:686][  0]NetworkingProfiler: Initialize
+[2021.03.28-18.38.12:687][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.28-18.38.12:687][  0]MemoryProfiler: Initialize
+[2021.03.28-18.38.12:687][  0]MemoryProfiler: OnSessionChanged
+[2021.03.28-18.38.12:882][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.28-18.38.12:882][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.28-18.38.13:091][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/' took 0.01s
+[2021.03.28-18.38.13:350][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.28-18.38.13:356][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.28-18.38.13:356][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.547
+[2021.03.28-18.38.13:356][  0]Cmd: MAP LOAD FILE="../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.28-18.38.13:356][  0]LightingResults: New page: Diseñar la iluminación
+[2021.03.28-18.38.13:357][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-18.38.13:358][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-18.38.13:358][  0]MapCheck: New page: Revisión del mapa
+[2021.03.28-18.38.13:358][  0]LightingResults: New page: Diseñar la iluminación
+[2021.03.28-18.38.13:698][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.28-18.38.13:865][  0]LogLinker: Warning: [AssetLog] C:\Users\usuari\Documents\GitHub\Unreal-Delivery1\TheRivenTower\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.03.28-18.38.13:866][  0]LogLinker: Warning: [AssetLog] C:\Users\usuari\Documents\GitHub\Unreal-Delivery1\TheRivenTower\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.03.28-18.38.13:870][  0]LogLinker: Warning: [AssetLog] C:\Users\usuari\Documents\GitHub\Unreal-Delivery1\TheRivenTower\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.03.28-18.38.13:871][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.03.28-18.38.13:871][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.03.28-18.38.13:968][  0]LogLinker: Warning: [AssetLog] C:\Users\usuari\Documents\GitHub\Unreal-Delivery1\TheRivenTower\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.03.28-18.38.13:968][  0]LoadErrors: Error al cargar /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenciado por PersistentLevel
+[2021.03.28-18.38.14:116][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.03.28-18.38.14:118][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.28-18.38.14:148][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.28-18.38.14:158][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.28-18.38.14:158][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.28-18.38.14:158][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,135ms to complete.
+[2021.03.28-18.38.14:158][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.802
+[2021.03.28-18.38.14:161][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.351
+[2021.03.28-18.38.14:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-18.38.14:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-18.38.14:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-18.38.14:375][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-18.38.14:421][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 3601 classes and 859 folders.
+[2021.03.28-18.38.14:428][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.28-18.38.14:447][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.28-18.38.14:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.28-18.38.14:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.28-18.38.14:457][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.28-18.38.14:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.28-18.38.14:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.03.28-18.38.14:464][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.28-18.38.14:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.28-18.38.14:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.28-18.38.14:471][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-18.38.14:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.28-18.38.14:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.28-18.38.14:478][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.28-18.38.14:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.28-18.38.14:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.03.28-18.38.14:485][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.28-18.38.14:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.28-18.38.14:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.03.28-18.38.14:492][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.28-18.38.14:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.28-18.38.14:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.03.28-18.38.14:500][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.28-18.38.14:500][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:500][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.28-18.38.14:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.03.28-18.38.14:509][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.28-18.38.14:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.28-18.38.14:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.03.28-18.38.14:517][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.28-18.38.14:517][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:517][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.28-18.38.14:517][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.03.28-18.38.14:523][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.28-18.38.14:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.28-18.38.14:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.03.28-18.38.14:532][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.28-18.38.14:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.28-18.38.14:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.03.28-18.38.14:545][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-18.38.14:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.28-18.38.14:545][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.03.28-18.38.14:557][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.28-18.38.14:557][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:557][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.28-18.38.14:557][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.03.28-18.38.14:570][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.28-18.38.14:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.28-18.38.14:570][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.03.28-18.38.14:586][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.28-18.38.14:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.28-18.38.14:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2021.03.28-18.38.14:598][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.28-18.38.14:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.28-18.38.14:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.03.28-18.38.14:612][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.28-18.38.14:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.28-18.38.14:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2021.03.28-18.38.14:625][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-18.38.14:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.28-18.38.14:626][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.03.28-18.38.14:646][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-18.38.14:646][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:646][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.28-18.38.14:646][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2021.03.28-18.38.14:658][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.28-18.38.14:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.28-18.38.14:658][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2021.03.28-18.38.14:671][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.28-18.38.14:671][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:671][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.28-18.38.14:671][  0]LogPakFile: OnPakFileMounted2Time == 0.000135
+[2021.03.28-18.38.14:685][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.28-18.38.14:685][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.28-18.38.14:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2021.03.28-18.38.14:698][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.28-18.38.14:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.28-18.38.14:699][  0]LogPakFile: OnPakFileMounted2Time == 0.000147
+[2021.03.28-18.38.14:711][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-18.38.14:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.28-18.38.14:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000153
+[2021.03.28-18.38.14:724][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.28-18.38.14:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-18.38.14:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.28-18.38.14:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000159
+[2021.03.28-18.38.14:996][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.03.28-18.38.15:004][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.03.28-18.38.15:082][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.15:113][  0]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.28-18.38.15:119][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.28-18.38.15:145][  0]LogSlate: Took 0.012569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.28-18.38.15:392][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2021.03.28-18.38.15:728][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.28-18.38.15:729][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.03.28-18.38.15:729][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.03.28-18.38.15:729][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.03.28-18.38.15:729][  0]LogLoad: (Engine Initialization) Total time: 10.92 seconds
+[2021.03.28-18.38.15:729][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.28-18.38.15:729][  0]LogInit: First time updating LLM stats...
+[2021.03.28-18.38.15:787][  0]LogAssetRegistry: Asset discovery search completed in 6.8304 seconds
+[2021.03.28-18.38.15:788][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.28-18.38.15:833][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.28-18.38.15:881][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.15:916][  0]LogSlate: Took 0.011335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.28-18.38.16:443][  2]LogSlate: Took 0.011126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.28-18.38.19:587][ 23]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.20:583][ 39]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.03.28-18.38.20:692][ 39]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.03.28-18.38.25:015][147]MapCheck: New page: Revisión del mapa
+[2021.03.28-18.38.25:115][147]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.25:313][147]Cmd: MAP REBUILD ALLVISIBLE
+[2021.03.28-18.38.25:314][147]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.03.28-18.38.25:330][147]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.03.28-18.38.25:446][147]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.03.28-18.38.25:446][147]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.03.28-18.38.25:446][147]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.03.28-18.38.25:514][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.03.28-18.38.25:525][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.28-18.38.25:543][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.28-18.38.25:547][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.28-18.38.25:551][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.03.28-18.38.25:551][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.03.28-18.38.25:551][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.28-18.38.25:551][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.03.28-18.38.25:551][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.28-18.38.25:555][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.28-18.38.25:558][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.28-18.38.25:566][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.28-18.38.25:570][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.28-18.38.27:997][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.03.28-18.38.27:997][147]TextureStreamingBuild: Display: Compiling optional shaders took 2.482 seconds.
+[2021.03.28-18.38.28:055][147]LogLevel: Display: Export Material TexCoord Scales took 0.058 seconds.
+[2021.03.28-18.38.28:057][147]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.03.28-18.38.28:061][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.28-18.38.28:071][147]LightingResults: New page: Diseño de la iluminación - 28 mar. 2021 22:38:28
+[2021.03.28-18.38.28:146][147]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.28-18.38.28:363][147]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.28-18.38.28:400][147]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.28-18.38.29:457][147]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.28-18.38.29:457][147]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6628
+[2021.03.28-18.38.37:365][147]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.28-18.38.37:366][147]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.28-18.38.37:366][147]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.28-18.38.37:366][147]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.28-18.38.37:366][147]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.28-18.38.37:821][147]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.37:822][147]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.03.28-18.38.37:822][147]MapCheck: New page: ThirdPersonExampleMap - 28 mar. 2021 22:38:37
+[2021.03.28-18.38.37:862][147]MapCheck: Error: WorldInfo_0 Los mapas necesitan rediseñar la iluminación 
+[2021.03.28-18.38.37:864][147]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 42,974ms to complete.
+[2021.03.28-18.38.37:867][147]LogEditorBuildUtils: Build time 0:12
+[2021.03.28-18.38.37:908][147]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.37:925][147]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.37:930][147]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2021.03.28-18.38.37:938][147]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2021.03.28-18.38.38:030][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.03.28-18.38.38:031][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.03.28-18.38.38:046][148]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2021.03.28-18.38.38:050][148]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.28-18.38.38:050][148]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.03.28-18.38.38:050][148]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2021.03.28-18.38.38:054][148]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2021.03.28-18.38.38:058][148]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2021.03.28-18.38.38:132][149]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.03.28-18.38.38:137][149]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.03.28-18.38.39:742][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.03.28-18.38.39:742][150]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.28-18.38.39:742][150]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.03.28-18.38.39:742][150]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.03.28-18.38.39:742][150]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.28-18.38.39:742][150]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.28-18.38.40:325][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.28-18.38.41:831][161]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.03.28-18.38.41:849][161]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.03.28-18.38.45:193][242]Job is a success!
+[2021.03.28-18.38.45:279][243]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.45:287][243]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.45:302][243]LogSlate: Took 0.013431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.28-18.38.45:429][243]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2021.03.28-18.38.45:429][243]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.28-18.38.45:429][243]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.03.28-18.38.45:429][243]LogVolumetricLightmapImport:      Bricks at depth
+[2021.03.28-18.38.45:429][243]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2021.03.28-18.38.45:429][243]LogVolumetricLightmapImport:          1: 9.3% covering 6.2% of volume
+[2021.03.28-18.38.45:429][243]LogVolumetricLightmapImport:          2: 88.4% covering 0.9% of volume
+[2021.03.28-18.38.45:429][243]LogVolumetricLightmapImport:      Bricks in each level
+[2021.03.28-18.38.45:429][243]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 43 bricks 	 100.0% (Persistent Level)
+[2021.03.28-18.38.46:045][243]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.03.28-18.38.46:046][243]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.03.28-18.38.46:046][243]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.03.28-18.38.46:046][243]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2021.03.28-18.38.46:046][243]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2021.03.28-18.38.46:046][243]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2021.03.28-18.38.46:046][243]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2021.03.28-18.38.46:046][243]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2021.03.28-18.38.46:046][243]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2021.03.28-18.38.46:245][243]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.03.28-18.38.46:367][243]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2021.03.28-18.38.46:367][243]Lightmass on DESKTOP-VJ1681R: 4.31 sec total, 175 ms importing, 20 ms setup, 755 ms photons, 3.29 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 23.0 sec total, 5.47 sec processing.
+[2021.03.28-18.38.46:367][243]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2021.03.28-18.38.46:387][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.28-18.38.46:446][243]LogStaticLightingSystem: Illumination: 18.2 sec (557 ms encoding lightmaps, 245 ms encoding shadowmaps)
+[2021.03.28-18.38.46:447][243]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2021.03.28-18.38.46:447][243]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.03.28-18.38.47:372][243]DumpUnbuiltLightIteractions
+[2021.03.28-18.38.47:372][243]Lights with unbuilt interactions: 0
+[2021.03.28-18.38.47:372][243]
+[2021.03.28-18.38.47:372][243]Primitives with unbuilt interactions: 0
+[2021.03.28-18.38.47:380][243]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.38.47:529][243]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.03.28-18.38.47:603][244]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.28-18.38.47:603][244]MapCheck: New page: ThirdPersonExampleMap - 28 mar. 2021 22:38:47
+[2021.03.28-18.38.47:604][244]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,672ms to complete.
+[2021.03.28-18.41.07:626][872]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.41.09:237][872]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.41.10:552][906]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.41.10:623][907]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.41.12:566][940]LogContentBrowser: Deferred new asset file creation: TheRivenTower_Map1
+[2021.03.28-18.41.12:597][940]LogContentBrowser: Creating deferred item: TheRivenTower_Map1
+[2021.03.28-18.41.16:781][ 70]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.41.18:382][116]LogContentBrowser: Attempting asset rename: TheRivenTower_Map1 -> TheRivenTower_MapLluis
+[2021.03.28-18.41.18:546][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.03.28-18.41.18:677][116]LogContentBrowser: End creating deferred item TheRivenTower_Map1
+[2021.03.28-18.41.20:291][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.03.28-18.41.20:387][151]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.41.30:986][151]LogSlate: Window 'Guardar contenido' being destroyed
+[2021.03.28-18.41.31:027][151]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.41.31:103][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.28-18.41.31:688][151]LogSavePackage: Moving '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapLluis6EF4EF0D4296F7E4D801EFA9300B81A7.tmp' to '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_MapLluis.umap'
+[2021.03.28-18.41.31:707][151]LogFileHelpers: Saving map 'TheRivenTower_MapLluis' took 0.639
+[2021.03.28-18.41.31:720][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.28-18.41.31:829][151]LogSavePackage: Moving '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/ThirdPersonExampleMapCA612FAC4669CF14EC68A2B902BA5385.tmp' to '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.28-18.41.31:874][151]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.167
+[2021.03.28-18.41.32:101][151]LogSavePackage: Moving '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/ThirdPersonExampleMap_BuiltData97E21F4D49D272BA134FE68A3ABB1415.tmp' to '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.28-18.41.32:117][151]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.41.32:143][151]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_MapLluis.TheRivenTower_MapLluis
+[2021.03.28-18.41.32:144][151]Cmd: MAP LOAD FILE="../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_MapLluis.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.28-18.41.32:144][151]LightingResults: New page: Diseñar la iluminación
+[2021.03.28-18.41.32:144][151]LoadErrors: New page: Cargando mapa: TheRivenTower_MapLluis.umap
+[2021.03.28-18.41.32:146][151]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-18.41.32:147][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-18.41.32:147][151]MapCheck: New page: Revisión del mapa
+[2021.03.28-18.41.32:147][151]LightingResults: New page: Diseñar la iluminación
+[2021.03.28-18.41.32:157][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-18.41.32:164][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.03.28-18.41.32:184][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.03.28-18.41.32:195][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.03.28-18.41.32:196][151]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_MapLluis'.
+[2021.03.28-18.41.32:218][151]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.28-18.41.32:218][151]LogAIModule: Creating AISystem for world TheRivenTower_MapLluis
+[2021.03.28-18.41.32:238][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.28-18.41.32:257][151]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.28-18.41.32:257][151]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,18ms to complete.
+[2021.03.28-18.41.32:257][151]LogFileHelpers: Loading map 'TheRivenTower_MapLluis' took 0.113
+[2021.03.28-18.41.32:359][151]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.28-18.41.32:359][151]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_MapLluis.TheRivenTower_MapLluis
+[2021.03.28-18.41.32:360][151]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.28-18.41.32:431][151]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.03.28-18.42.16:119][243]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.42.18:391][307]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-18.43.37:727][251]Cmd: TRANSACTION UNDO
+[2021.03.28-18.43.37:727][251]LogEditorTransaction: Undo Scale Actors
+[2021.03.28-18.43.38:399][251]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.45.46:117][809]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.45.47:381][839]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.45.48:145][851]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.45.48:659][861]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.45.50:142][888]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.45.55:700][982]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.45.56:622][997]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.45.57:689][ 13]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.45.59:072][ 36]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.46.00:405][ 60]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.46.05:403][135]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.46.05:488][136]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.46.05:587][138]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.46.06:687][160]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.46.20:761][434]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.46.21:282][442]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.46.22:402][461]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.46.27:253][555]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.47.14:737][932]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.47.15:886][959]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.47.17:937][  4]LogRenderer: Reallocating scene render targets to support 1224x432 Format 10 NumSamples 1 (Frame:6827).
+[2021.03.28-18.47.18:203][  8]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.47.20:518][ 55]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.47.21:184][ 75]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.47.22:010][ 90]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.47.24:775][142]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.47.28:565][229]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.47.51:370][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-18.48.11:134][120]LogWindows: LaunchURL http://docs.unrealengine.com/latest/SPA/Engine/UI/LevelEditor/Modes/index.html?utm_source=editor&utm_medium=docs&utm_campaign=tutorials
+[2021.03.28-18.48.17:733][196]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object Ninguno.ActorDetails'
+[2021.03.28-18.48.29:095][443]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.48.31:561][468]LogSlate: Window 'Tutoriales' being destroyed
+[2021.03.28-18.48.31:635][468]LogSlate: Window 'Tutoriales' being destroyed
+[2021.03.28-18.48.39:841][654]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.48.40:505][666]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.48.42:623][703]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.48.42:701][704]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.48.44:186][729]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.48.47:299][779]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.49.22:660][554]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.03.28-18.49.25:451][616]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.49.30:846][756]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.49.39:704][  3]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.49.45:636][115]LogSlate: Took 0.011220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.28-18.49.50:402][232]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.49.53:930][301]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2021.03.28-18.49.53:993][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.03.28-18.49.53:993][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.03.28-18.49.53:993][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.28-18.49.53:993][301]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.03.28-18.49.54:060][301]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.03.28-18.49.54:060][301]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.03.28-18.49.54:102][301]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.03.28-18.49.54:144][301]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2021.03.28-18.49.54:172][301]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2021.03.28-18.49.54:223][301]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2021.03.28-18.49.54:302][301]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.28-18.49.54:324][301]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.28-18.49.54:353][301]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.28-18.49.54:381][301]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.28-18.49.54:419][301]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2021.03.28-18.49.54:445][301]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.28-18.49.54:469][301]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.03.28-18.49.54:513][301]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.03.28-18.49.54:608][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 242
+[2021.03.28-18.49.55:017][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 232
+[2021.03.28-18.49.55:235][320]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 222
+[2021.03.28-18.49.55:652][326]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.49.56:480][349]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 212
+[2021.03.28-18.49.58:254][402]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 202
+[2021.03.28-18.49.58:746][417]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 192
+[2021.03.28-18.49.59:413][434]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 182
+[2021.03.28-18.49.59:946][450]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 172
+[2021.03.28-18.50.00:295][456]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.01:847][481]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 162
+[2021.03.28-18.50.02:255][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 152
+[2021.03.28-18.50.02:793][493]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 142
+[2021.03.28-18.50.03:221][506]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 132
+[2021.03.28-18.50.05:312][569]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2021.03.28-18.50.05:992][589]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2021.03.28-18.50.06:939][615]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2021.03.28-18.50.07:309][625]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2021.03.28-18.50.08:677][657]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.09:277][669]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.09:450][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2021.03.28-18.50.09:966][679]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2021.03.28-18.50.10:931][696]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2021.03.28-18.50.11:329][708]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2021.03.28-18.50.12:192][726]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.12:603][734]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.13:208][751]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2021.03.28-18.50.13:326][753]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.13:695][762]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.03.28-18.50.14:375][774]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.14:659][779]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.03.28-18.50.14:947][782]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.03.28-18.50.15:212][784]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.16:431][800]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.16:484][802]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.03.28-18.50.16:668][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.03.28-18.50.16:711][806]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.03.28-18.50.16:984][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.03.28-18.50.17:221][813]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.28-18.50.17:402][815]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.03.28-18.50.17:661][817]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.18:768][834]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.20:001][856]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.45:832][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-18.50.57:293][613]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.50.58:097][635]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-18.51.34:566][613]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.53.47:987][ 81]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.54.10:764][646]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.54.13:435][723]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-18.55.03:413][ 91]Cmd: MODE SCALEGRID=0
+[2021.03.28-18.57.05:948][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-18.57.19:431][600]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.57.20:639][632]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-18.58.11:749][995]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.59.54:633][917]Cmd: TRANSACTION UNDO
+[2021.03.28-18.59.54:633][917]LogEditorTransaction: Undo Scale Actors
+[2021.03.28-18.59.55:191][917]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-18.59.56:513][949]Cmd: TRANSACTION UNDO
+[2021.03.28-18.59.56:513][949]LogEditorTransaction: Undo Move Actors
+[2021.03.28-19.00.33:718][ 13]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.00.36:489][ 81]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.00.36:607][ 81]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.00.42:165][225]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.00.45:783][296]Cmd: MAP SENDTO FIRST
+[2021.03.28-19.01.02:342][767]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.01.03:629][788]Cmd: MAP SENDTO LAST
+[2021.03.28-19.01.04:973][804]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.01.06:209][826]Cmd: MAP SENDTO FIRST
+[2021.03.28-19.01.20:702][237]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.01.21:821][255]Cmd: MAP SENDTO LAST
+[2021.03.28-19.01.27:423][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-19.01.28:147][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-19.01.42:411][765]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.02.27:711][995]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.02.36:627][169]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.02.36:846][169]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2021.03.28-19.02.37:441][169]LogSavePackage: Moving '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapLluis_Auto14199E6FD49C3681F7F4C9EA6E2175224.tmp' to '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Autosaves/Game/Levels/TheRivenTower_MapLluis_Auto1.umap'
+[2021.03.28-19.02.37:456][169]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TheRivenTower_MapLluis' took 0.759
+[2021.03.28-19.02.37:456][169]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.759
+[2021.03.28-19.03.32:425][777]Cmd: TRANSACTION UNDO
+[2021.03.28-19.03.32:425][777]LogEditorTransaction: Undo Move Actors
+[2021.03.28-19.03.33:110][777]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.03.35:106][829]Cmd: TRANSACTION UNDO
+[2021.03.28-19.03.35:106][829]LogEditorTransaction: Undo Move Actors
+[2021.03.28-19.03.49:652][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.03.51:288][224]Cmd: MAP SENDTO FIRST
+[2021.03.28-19.03.53:119][258]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.03.54:454][281]Cmd: MAP SENDTO LAST
+[2021.03.28-19.04.08:012][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-19.04.21:445][ 68]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.10.29:341][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-19.10.48:030][588]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.10.49:029][606]Cmd: MAP SENDTO LAST
+[2021.03.28-19.14.02:984][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-19.14.25:704][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-19.14.57:214][567]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.15.06:194][832]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.15.06:320][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.03.28-19.15.06:915][832]LogSavePackage: Moving '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapLluis_Auto2388604914438E11F8B964387D22362D1.tmp' to '../../../../../../Users/usuari/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Autosaves/Game/Levels/TheRivenTower_MapLluis_Auto2.umap'
+[2021.03.28-19.15.06:919][832]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TheRivenTower_MapLluis' took 0.675
+[2021.03.28-19.15.06:920][832]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.675
+[2021.03.28-19.15.51:641][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-19.16.53:524][946]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.17.15:229][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-19.17.17:810][624]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.17.19:783][681]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-19.17.40:832][207]Cmd: EDCALLBACK SURFPROPS
+[2021.03.28-19.17.45:610][339]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.17.51:956][514]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.17.53:788][566]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.17.54:355][582]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.18.07:795][939]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.18.18:794][220]Cmd: DELETE
+[2021.03.28-19.18.18:794][220]Cmd: ACTOR DELETE
+[2021.03.28-19.18.18:889][220]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-19.18.18:921][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.03.28-19.18.19:236][220]LogEditorActor: Deleted 1 Actors (0.441 secs)
+[2021.03.28-19.20.32:659][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-19.20.41:929][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-19.20.45:825][252]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.20.49:790][312]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.22.29:908][370]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.22.38:011][585]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-19.22.38:993][597]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2021.03.28-19.22.38:993][597]LogD3D11RHI: [Aftermath] GDynamicRHI=0000022E0F7710C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.03.28-19.22.38:993][597]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
