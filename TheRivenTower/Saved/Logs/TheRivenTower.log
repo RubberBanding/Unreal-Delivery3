@@ -1358,3 +1358,357 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.08-19.55.00:560][ 73]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
 [2021.06.08-19.55.00:987][121]BlueprintLog: New page: Compile FirstPersonCharacter
 [2021.06.08-19.55.01:159][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.06.08-19.55.40:567][499]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.08-19.55.40:584][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.08-19.55.40:584][499]PIE: New page: PIE session: NuclearShelter (8 jun. 2021 23:55:40)
+[2021.06.08-19.55.40:584][499]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-19.55.40:675][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090483s)
+[2021.06.08-19.55.40:676][499]LogAIModule: Creating AISystem for world NuclearShelter
+[2021.06.08-19.55.40:676][499]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2021.06.08-19.55.40:676][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NuclearShelter.NuclearShelter to /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter (0.092060s)
+[2021.06.08-19.55.40:703][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.06.08-19.55.40:706][499]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.06.08-19.55.40:706][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.08-19.55.40:706][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.08-19.55.40:706][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.08-19.55.40:706][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.08-19.55.40:706][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.08-19.55.40:706][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.08-19.55.40:706][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.08-19.55.40:706][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.08-19.55.40:707][499]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.08-19.55.40:707][499]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.08-19.55.40:714][499]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.08-19.55.40:714][499]LogAudioMixer: Display: 1: FrontRight
+[2021.06.08-19.55.40:736][499]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.06.08-19.55.40:736][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.08-19.55.40:736][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.08-19.55.40:736][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.08-19.55.40:737][499]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.08-19.55.40:737][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.08-19.55.40:737][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.08-19.55.40:749][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.08-19.55.40:749][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.08-19.55.40:749][499]LogInit: FAudioDevice initialized.
+[2021.06.08-19.55.40:749][499]LogAudio: Display: Audio Device (ID: 12) registered with world 'NuclearShelter'.
+[2021.06.08-19.55.40:780][499]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.08-19.55.40:808][499]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter up for play (max tick rate 0) at 2021.06.08-21.55.40
+[2021.06.08-19.55.40:809][499]LogWorld: Bringing up level for play took: 0.027641
+[2021.06.08-19.55.40:810][499]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.06.08-19.55.40:816][499]PIE: Server logged in
+[2021.06.08-19.55.40:817][499]PIE: Play in editor total start time 0,244 seconds.
+[2021.06.08-19.55.43:530][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-19.55.43:530][720]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-19.55.43:530][720]LogWorld: UWorld::CleanupWorld for NuclearShelter, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-19.55.43:531][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-19.55.43:548][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.08-19.55.43:606][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-19.55.43:634][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.08-19.55.43:635][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-19.55.43:636][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-19.55.43:655][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-19.55.43:664][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.06.08-19.55.43:741][721]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.06.08-19.55.47:152][862]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.08-19.55.47:163][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.08-19.55.47:163][862]PIE: New page: PIE session: NuclearShelter (8 jun. 2021 23:55:47)
+[2021.06.08-19.55.47:196][862]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-19.55.47:279][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082511s)
+[2021.06.08-19.55.47:280][862]LogAIModule: Creating AISystem for world NuclearShelter
+[2021.06.08-19.55.47:280][862]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2021.06.08-19.55.47:280][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NuclearShelter.NuclearShelter to /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter (0.084079s)
+[2021.06.08-19.55.47:308][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.06.08-19.55.47:309][862]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.06.08-19.55.47:309][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.08-19.55.47:309][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.08-19.55.47:309][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.08-19.55.47:309][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.08-19.55.47:309][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.08-19.55.47:309][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.08-19.55.47:309][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.08-19.55.47:309][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.08-19.55.47:310][862]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.08-19.55.47:310][862]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.08-19.55.47:318][862]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.08-19.55.47:318][862]LogAudioMixer: Display: 1: FrontRight
+[2021.06.08-19.55.47:338][862]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.06.08-19.55.47:338][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.08-19.55.47:339][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.08-19.55.47:339][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.08-19.55.47:339][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.08-19.55.47:339][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.08-19.55.47:339][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.08-19.55.47:353][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.08-19.55.47:353][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.08-19.55.47:353][862]LogInit: FAudioDevice initialized.
+[2021.06.08-19.55.47:353][862]LogAudio: Display: Audio Device (ID: 13) registered with world 'NuclearShelter'.
+[2021.06.08-19.55.47:371][862]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.08-19.55.47:383][862]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter up for play (max tick rate 0) at 2021.06.08-21.55.47
+[2021.06.08-19.55.47:384][862]LogWorld: Bringing up level for play took: 0.010441
+[2021.06.08-19.55.47:384][862]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.06.08-19.55.47:388][862]PIE: Server logged in
+[2021.06.08-19.55.47:389][862]PIE: Play in editor total start time 0,232 seconds.
+[2021.06.08-19.55.53:859][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-19.55.53:859][372]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-19.55.53:860][372]LogWorld: UWorld::CleanupWorld for NuclearShelter, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-19.55.53:860][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-19.55.53:873][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.08-19.55.53:926][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-19.55.53:951][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-19.55.53:952][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-19.55.53:953][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-19.55.53:979][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.06.08-19.55.54:062][373]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.06.08-19.55.56:944][488]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.08-19.55.56:958][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.08-19.55.56:958][488]PIE: New page: PIE session: NuclearShelter (8 jun. 2021 23:55:56)
+[2021.06.08-19.55.56:958][488]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-19.55.57:049][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090363s)
+[2021.06.08-19.55.57:050][488]LogAIModule: Creating AISystem for world NuclearShelter
+[2021.06.08-19.55.57:050][488]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2021.06.08-19.55.57:050][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NuclearShelter.NuclearShelter to /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter (0.091824s)
+[2021.06.08-19.55.57:077][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.08-19.55.57:078][488]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.06.08-19.55.57:078][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.08-19.55.57:078][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.08-19.55.57:078][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.08-19.55.57:078][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.08-19.55.57:078][488]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.08-19.55.57:078][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.08-19.55.57:078][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.08-19.55.57:078][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.08-19.55.57:079][488]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.08-19.55.57:079][488]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.08-19.55.57:086][488]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.08-19.55.57:086][488]LogAudioMixer: Display: 1: FrontRight
+[2021.06.08-19.55.57:106][488]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.06.08-19.55.57:106][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.08-19.55.57:107][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.08-19.55.57:107][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.08-19.55.57:107][488]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.08-19.55.57:107][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.08-19.55.57:107][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.08-19.55.57:119][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.08-19.55.57:119][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.08-19.55.57:119][488]LogInit: FAudioDevice initialized.
+[2021.06.08-19.55.57:119][488]LogAudio: Display: Audio Device (ID: 14) registered with world 'NuclearShelter'.
+[2021.06.08-19.55.57:129][488]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.08-19.55.57:137][488]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter up for play (max tick rate 0) at 2021.06.08-21.55.57
+[2021.06.08-19.55.57:137][488]LogWorld: Bringing up level for play took: 0.007535
+[2021.06.08-19.55.57:138][488]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.06.08-19.55.57:140][488]PIE: Server logged in
+[2021.06.08-19.55.57:141][488]PIE: Play in editor total start time 0,19 seconds.
+[2021.06.08-19.56.03:141][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-19.56.03:141][951]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-19.56.03:141][951]LogWorld: UWorld::CleanupWorld for NuclearShelter, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-19.56.03:142][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-19.56.03:156][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.08-19.56.03:213][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-19.56.03:239][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-19.56.03:239][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-19.56.03:240][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-19.56.03:267][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.06.08-19.56.03:346][952]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.06.08-19.56.35:839][342]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.08-19.56.35:853][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.08-19.56.35:853][342]PIE: New page: PIE session: NuclearShelter (8 jun. 2021 23:56:35)
+[2021.06.08-19.56.35:853][342]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-19.56.35:970][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116977s)
+[2021.06.08-19.56.35:971][342]LogAIModule: Creating AISystem for world NuclearShelter
+[2021.06.08-19.56.35:972][342]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2021.06.08-19.56.35:972][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NuclearShelter.NuclearShelter to /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter (0.118599s)
+[2021.06.08-19.56.36:002][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.06.08-19.56.36:004][342]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.06.08-19.56.36:004][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.08-19.56.36:004][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.08-19.56.36:004][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.08-19.56.36:004][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.08-19.56.36:004][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.08-19.56.36:004][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.08-19.56.36:004][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.08-19.56.36:004][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.08-19.56.36:005][342]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.08-19.56.36:005][342]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.08-19.56.36:013][342]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.08-19.56.36:013][342]LogAudioMixer: Display: 1: FrontRight
+[2021.06.08-19.56.36:035][342]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.06.08-19.56.36:036][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.08-19.56.36:036][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.08-19.56.36:036][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.08-19.56.36:036][342]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.08-19.56.36:036][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.08-19.56.36:036][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.08-19.56.36:052][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.08-19.56.36:052][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.08-19.56.36:052][342]LogInit: FAudioDevice initialized.
+[2021.06.08-19.56.36:052][342]LogAudio: Display: Audio Device (ID: 15) registered with world 'NuclearShelter'.
+[2021.06.08-19.56.36:064][342]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.08-19.56.36:073][342]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter up for play (max tick rate 0) at 2021.06.08-21.56.36
+[2021.06.08-19.56.36:074][342]LogWorld: Bringing up level for play took: 0.009385
+[2021.06.08-19.56.36:074][342]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.06.08-19.56.36:078][342]PIE: Server logged in
+[2021.06.08-19.56.36:079][342]PIE: Play in editor total start time 0,233 seconds.
+[2021.06.08-19.56.47:732][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-19.56.47:732][ 30]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-19.56.47:732][ 30]LogWorld: UWorld::CleanupWorld for NuclearShelter, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-19.56.47:734][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-19.56.47:766][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.08-19.56.47:842][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-19.56.47:870][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-19.56.47:871][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-19.56.47:872][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-19.56.47:902][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.06.08-19.56.48:028][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.06.08-19.58.35:286][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.06.08-19.58.37:580][ 78]LogSlate: Window 'Save Content' being destroyed
+[2021.06.08-19.58.37:657][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.08-19.58.37:775][ 78]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery3/TheRivenTower/Saved/NuclearShelter922587AF4BB107FF166E599CB99BFF04.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery3/TheRivenTower/Content/Levels/NuclearShelter.umap'
+[2021.06.08-19.58.37:783][ 78]LogFileHelpers: Saving map 'NuclearShelter' took 0.156
+[2021.06.08-19.58.37:872][ 78]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.06.08-19.58.37:872][ 78]Cmd: MAP LOAD FILE="../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery3/TheRivenTower/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.08-19.58.37:872][ 78]LightingResults: New page: Lighting Build
+[2021.06.08-19.58.37:872][ 78]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2021.06.08-19.58.37:906][ 78]LogWorld: UWorld::CleanupWorld for NuclearShelter, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-19.58.37:906][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-19.58.37:906][ 78]MapCheck: New page: Map Check
+[2021.06.08-19.58.37:906][ 78]LightingResults: New page: Lighting Build
+[2021.06.08-19.58.37:930][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.08-19.58.37:946][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.06.08-19.58.37:947][ 78]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.06.08-19.58.37:952][ 78]LogTexture: Display: Building textures: DeprecatedTexture3581FEA240979BC2E1D18BB02FB320F0 (BGRA8, 128X128)
+[2021.06.08-19.58.37:962][ 78]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.08-19.58.37:962][ 78]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.06.08-19.58.37:991][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.06.08-19.58.37:997][ 78]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.08-19.58.37:997][ 78]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,285ms to complete.
+[2021.06.08-19.58.37:997][ 78]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.125
+[2021.06.08-19.58.38:013][ 78]AssetCheck: New page: Asset Save: NuclearShelter
+[2021.06.08-19.58.38:013][ 78]LogContentValidation: Display: Validating World /Game/Levels/NuclearShelter.NuclearShelter
+[2021.06.08-19.58.40:062][211]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.08-19.58.40:073][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.08-19.58.40:073][211]PIE: New page: PIE session: FirstPersonExampleMap (8 jun. 2021 23:58:40)
+[2021.06.08-19.58.40:073][211]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.06.08-19.58.40:095][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022313s)
+[2021.06.08-19.58.40:097][211]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.06.08-19.58.40:098][211]LogPlayLevel: PIE: World Init took: (0.002185s)
+[2021.06.08-19.58.40:098][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024698s)
+[2021.06.08-19.58.40:129][211]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.06.08-19.58.40:135][211]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.06.08-19.58.40:135][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.08-19.58.40:135][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.08-19.58.40:135][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.08-19.58.40:135][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.08-19.58.40:135][211]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.08-19.58.40:135][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.08-19.58.40:135][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.08-19.58.40:136][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.08-19.58.40:136][211]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.08-19.58.40:136][211]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.08-19.58.40:147][211]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.08-19.58.40:147][211]LogAudioMixer: Display: 1: FrontRight
+[2021.06.08-19.58.40:174][211]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.06.08-19.58.40:174][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.08-19.58.40:175][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.08-19.58.40:175][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.08-19.58.40:175][211]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.08-19.58.40:175][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.08-19.58.40:175][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.08-19.58.40:189][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.08-19.58.40:189][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.08-19.58.40:189][211]LogInit: FAudioDevice initialized.
+[2021.06.08-19.58.40:189][211]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonExampleMap'.
+[2021.06.08-19.58.40:200][211]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.08-19.58.40:203][211]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.06.08-21.58.40
+[2021.06.08-19.58.40:204][211]LogWorld: Bringing up level for play took: 0.002753
+[2021.06.08-19.58.40:204][211]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.06.08-19.58.40:207][211]PIE: Server logged in
+[2021.06.08-19.58.40:208][211]PIE: Play in editor total start time 0,139 seconds.
+[2021.06.08-20.51.43:759][516]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.06.08-20.51.49:899][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-20.51.49:899][226]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.06.08-20.51.49:900][226]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-20.51.49:901][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-20.51.49:920][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.08-20.51.49:925][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-20.51.49:955][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.08-20.51.49:956][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-20.51.49:957][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-20.51.49:978][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-20.51.49:985][226]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.06.08-20.51.50:015][227]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.06.08-20.51.56:769][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.06.08-20.51.56:788][996]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/NuclearShelter.NuclearShelter
+[2021.06.08-20.51.56:788][996]Cmd: MAP LOAD FILE="../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery3/TheRivenTower/Content/Levels/NuclearShelter.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.08-20.51.56:788][996]LightingResults: New page: Lighting Build
+[2021.06.08-20.51.56:789][996]LoadErrors: New page: Loading map: NuclearShelter.umap
+[2021.06.08-20.51.56:791][996]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-20.51.56:792][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-20.51.56:792][996]MapCheck: New page: Map Check
+[2021.06.08-20.51.56:792][996]LightingResults: New page: Lighting Build
+[2021.06.08-20.51.56:816][996]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.08-20.51.56:822][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.06.08-20.51.56:823][996]LogAudio: Display: Audio Device (ID: 1) registered with world 'NuclearShelter'.
+[2021.06.08-20.51.56:836][996]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.08-20.51.56:836][996]LogAIModule: Creating AISystem for world NuclearShelter
+[2021.06.08-20.51.56:877][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.06.08-20.51.56:883][996]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.08-20.51.56:883][996]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,282ms to complete.
+[2021.06.08-20.51.56:883][996]LogFileHelpers: Loading map 'NuclearShelter' took 0.095
+[2021.06.08-20.51.58:581][183]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.08-20.51.58:590][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.08-20.51.58:590][183]PIE: New page: PIE session: NuclearShelter (9 jun. 2021 0:51:58)
+[2021.06.08-20.51.58:635][183]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-20.51.58:742][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107478s)
+[2021.06.08-20.51.58:743][183]LogAIModule: Creating AISystem for world NuclearShelter
+[2021.06.08-20.51.58:744][183]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2021.06.08-20.51.58:744][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NuclearShelter.NuclearShelter to /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter (0.109071s)
+[2021.06.08-20.51.58:769][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.06.08-20.51.58:769][183]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.06.08-20.51.58:769][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.08-20.51.58:770][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.08-20.51.58:770][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.08-20.51.58:770][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.08-20.51.58:770][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.08-20.51.58:770][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.08-20.51.58:770][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.08-20.51.58:770][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.08-20.51.58:770][183]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.08-20.51.58:770][183]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.08-20.51.58:778][183]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.08-20.51.58:778][183]LogAudioMixer: Display: 1: FrontRight
+[2021.06.08-20.51.58:797][183]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.06.08-20.51.58:798][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.08-20.51.58:798][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.08-20.51.58:798][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.08-20.51.58:799][183]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.08-20.51.58:799][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.08-20.51.58:799][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.08-20.51.58:813][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.08-20.51.58:813][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.08-20.51.58:813][183]LogInit: FAudioDevice initialized.
+[2021.06.08-20.51.58:813][183]LogAudio: Display: Audio Device (ID: 17) registered with world 'NuclearShelter'.
+[2021.06.08-20.51.58:821][183]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.08-20.51.58:829][183]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NuclearShelter.NuclearShelter up for play (max tick rate 0) at 2021.06.08-22.51.58
+[2021.06.08-20.51.58:830][183]LogWorld: Bringing up level for play took: 0.007556
+[2021.06.08-20.51.58:830][183]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.08-20.51.58:833][183]PIE: Server logged in
+[2021.06.08-20.51.58:834][183]PIE: Play in editor total start time 0,248 seconds.
+[2021.06.08-20.52.10:909][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-20.52.10:909][613]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NuclearShelter
+[2021.06.08-20.52.10:909][613]LogWorld: UWorld::CleanupWorld for NuclearShelter, bSessionEnded=true, bCleanupResources=true
+[2021.06.08-20.52.10:910][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-20.52.10:950][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.08-20.52.10:955][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.08-20.52.10:978][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.08-20.52.10:978][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-20.52.10:979][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.08-20.52.10:998][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.08-20.52.11:005][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.06.08-20.52.11:035][614]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.08-20.52.11:814][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.06.08-20.52.11:931][692]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery3/TheRivenTower/Saved/NuclearShelter4F0700584168C1F2C166D1B8BA51FDE1.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery3/TheRivenTower/Content/Levels/NuclearShelter.umap'
+[2021.06.08-20.52.11:950][692]AssetCheck: New page: Asset Save: NuclearShelter
+[2021.06.08-20.52.11:950][692]LogContentValidation: Display: Validating World /Game/Levels/NuclearShelter.NuclearShelter
+[2021.06.08-20.52.13:748][876]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery3/TheRivenTower/Saved/FirstPersonCharacter7AFF0FF04DF5500BBCA108B5871D8941.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery3/TheRivenTower/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.06.08-20.52.13:760][876]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.06.08-20.52.13:760][876]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
