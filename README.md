@@ -1,5 +1,6 @@
-# The Riven Tower
-When a battalion of soldiers from World War I disappears in the transylvanian mountains of Făgăraș, you, a villager that knows the mountains, offer your services to track and save them. Your quest brings you to the Riven Tower, where forgotten creatures from an ancient time hide themselves from society. Explore the tower and battle the monsters to find the missing battalion and while you are at it, encover the terrible secrets that hide this mysterious tower.
+# Nuclear Shelter
+In this map the player will play the classic Domination mode from FPS Shooter games such as Call of Duty or Counter Strike: Global Offensive. 
+There are two teams in this mode where they will have to capture three bases along the map as long as they battle against each other. The bases are: A for Alpha, B for Bravo, and C for Charlie (as it was mentioned before). In Domination the player will obtain points by capturing zones each time. When one side gets the maximum points before the rival, they win the game.
 
 ## Team
 ### Marc Gálvez
@@ -26,7 +27,7 @@ LinkedIn: https://www.linkedin.com/in/mart%C3%AD-torras-640466185/
 
 ## Instructions to execute:
 
-- Download the latest release: https://github.com/RubberBanding/Unreal-Delivery1/releases
+- Download the latest release: https://github.com/RubberBanding/Unreal-Delivery3/releases
 
 - Unzip the file.
 
@@ -43,6 +44,6 @@ LinkedIn: https://www.linkedin.com/in/mart%C3%AD-torras-640466185/
 
 - MOUSE move camera.
 
-- R reset.
+- RIGHT CLICK shoot.
 
 
